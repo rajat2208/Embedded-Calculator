@@ -35,6 +35,7 @@ U : Shift button</br>
 Y : Cube</br>
 I : Equals button</br>
 
+Apart fromt these functions, Decimal-to-Binary and Decimal-to-Hexadecimal conversion is also possible.
 The LCD screen will also display error messages when the *input is improper* or when the output is *infinity*.</br>
 
 The keyboard confiuration on the kit is as follows:</br>
