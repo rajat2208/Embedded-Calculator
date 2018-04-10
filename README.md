@@ -10,7 +10,7 @@ The 4X4 keyboard on the kit is used to provide the input and use the necessary c
 
 -----------------------------KEYBOARD-----------------------------</br>
 </br>
-&nbsp;&nbsp;&nbsp;Without Shift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;With Shift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>
+&nbsp;Without Shift&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;With Shift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>
 </br>
 7&nbsp;&nbsp; 8&nbsp;&nbsp; 9&nbsp;&nbsp; a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	| &nbsp;&nbsp;^&nbsp;&nbsp;f&nbsp;&nbsp;h&nbsp;&nbsp;s</br>
 4&nbsp;&nbsp;	5	&nbsp;&nbsp;6	&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|   	&nbsp;&nbsp;c   	&nbsp;&nbsp;t   	&nbsp;&nbsp;<   	&nbsp;&nbsp;F</br>	
