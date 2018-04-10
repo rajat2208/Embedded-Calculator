@@ -8,7 +8,7 @@ The working of the **keyboard** is as follows:</br>
 The 4X4 keyboard on the kit is used to provide the input and use the necessary computation to be done. By default, the keyboard will be in the "Without Shift" mode. Pressing "S" would enable the "With Shift" mode. The _"S" & "U"_ as well as the _"=" & "I"_ buttons perform teh same operation irrespective of whether Shift is enbaled or not.</br></br>  
 
 
------------------------------KEYBOARD-----------------------------</br>
+------------------KEYBOARD------------------</br>
 </br>
 &nbsp;Without Shift&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;With Shift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>
 </br>
